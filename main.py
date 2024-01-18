@@ -1,1 +1,1 @@
-print('hello world')
+print('я хочу питсы')
